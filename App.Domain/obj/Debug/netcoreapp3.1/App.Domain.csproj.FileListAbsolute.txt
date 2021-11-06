@@ -1,0 +1,17 @@
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.deps.json
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.dll
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.pdb
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CoreCompileInputs.cache
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
+E:\Azure DevOps\Project1\Exercise2\DemoProjectMiddlewareErrorHandling\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.deps.json
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.dll
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.pdb
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csprojAssemblyReference.cache
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
+E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb

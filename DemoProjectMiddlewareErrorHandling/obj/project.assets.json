@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "App.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/App.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Domain.dll": {}
+        }
+      },
+      "App.ExceptionHandling.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "App.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App.ExceptionHandling.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.ExceptionHandling.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Domain/1.0.0": {
+      "type": "project",
+      "path": "../App.Domain/App.Domain.csproj",
+      "msbuildProject": "../App.Domain/App.Domain.csproj"
+    },
+    "App.ExceptionHandling.Services/1.0.0": {
+      "type": "project",
+      "path": "../App.ExceptionHandling.Services/App.ExceptionHandling.Services.csproj",
+      "msbuildProject": "../App.ExceptionHandling.Services/App.ExceptionHandling.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "App.ExceptionHandling.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\DemoProjectMiddlewareErrorHandling\\DemoProjectMiddlewareErrorHandling.csproj",
+      "projectName": "DemoProjectMiddlewareErrorHandling",
+      "projectPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\DemoProjectMiddlewareErrorHandling\\DemoProjectMiddlewareErrorHandling.csproj",
+      "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+      "outputPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\DemoProjectMiddlewareErrorHandling\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj": {
+              "projectPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
