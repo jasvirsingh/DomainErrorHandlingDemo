@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj": {}
+    "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj": {}
   },
   "projects": {
-    "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj": {
+    "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\obj\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,14 +67,14 @@
         }
       }
     },
-    "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj": {
+    "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj",
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj",
         "projectName": "App.ExceptionHandling.Services",
-        "projectPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\App.ExceptionHandling.Services.csproj",
         "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
-        "outputPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\obj\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.ExceptionHandling.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +95,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj"
+              "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj"
               }
             }
           }

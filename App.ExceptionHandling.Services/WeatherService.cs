@@ -17,7 +17,12 @@ namespace App.ExceptionHandling.Services
 
         public IEnumerable<WeatherForecast> Get(string city)
         {
-            if(!CitiesData.Contains(city))
+            if (string.IsNullOrWhiteSpace(city))
+            {
+                throw new DomainNotFoundException($"no such city exists in our system.");
+            }
+
+            if (!CitiesData.Contains(city))
             {
                 throw new DomainValidationException($"no weather data available for {city}");
             }

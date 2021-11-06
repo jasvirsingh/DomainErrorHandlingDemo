@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GxowiXdLTm1qEUouyR3F/NXud/LzeTiUdn/7FEbiuMBPfWR9XUUKKEzlj/+8oQL9MSRcuHpGnO8K7oyo27oApw==",
+  "dgSpecHash": "euEsfnfGKMVU2iXhfjQWW2I65OllXyKJDV3F/UzbaqSBinCY/mXqJ1MXQasZM0d4f/584agIuhqwp34ibxef9g==",
   "success": true,
-  "projectFilePath": "E:\\Interview Project Assignment\\Git\\ErrorHandlingDemo\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Interview Project Assignment\\Git\\DomainErrorHandlingDemo\\App.Domain\\App.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

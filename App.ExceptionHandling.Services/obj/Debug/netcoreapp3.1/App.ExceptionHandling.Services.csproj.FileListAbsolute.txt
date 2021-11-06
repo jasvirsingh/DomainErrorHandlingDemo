@@ -22,3 +22,15 @@ E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.ExceptionHandling.Serv
 E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.csproj.CopyComplete
 E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.dll
 E:\Interview Project Assignment\Git\ErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.pdb
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\bin\Debug\netcoreapp3.1\App.ExceptionHandling.Services.deps.json
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\bin\Debug\netcoreapp3.1\App.ExceptionHandling.Services.dll
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\bin\Debug\netcoreapp3.1\App.ExceptionHandling.Services.pdb
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\bin\Debug\netcoreapp3.1\App.Domain.dll
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\bin\Debug\netcoreapp3.1\App.Domain.pdb
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.csprojAssemblyReference.cache
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.csproj.CopyComplete
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.dll
+E:\Interview Project Assignment\Git\DomainErrorHandlingDemo\App.ExceptionHandling.Services\obj\Debug\netcoreapp3.1\App.ExceptionHandling.Services.pdb
